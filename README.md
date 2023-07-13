@@ -1,2 +1,2 @@
-# Real-Time-Currency-Converter-in-JAva-using-API
+# Real-Time-Currency-Converter-in-Java-using-API
 Currency Converter
